@@ -1,1 +1,1 @@
-https://github.com/Graimcer/ono-tebe-nado
+Ссылка: https://github.com/Graimcer/ono-tebe-nado
