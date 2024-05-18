@@ -114,12 +114,13 @@
 }
 .spacing-o {
   letter-spacing: 60px;
-  position: relative; left: -25px;
+  position: relative;
+  left: -25px;
 }
 .spacing {
   letter-spacing: 30px;
   position: relative;
-  right: -30px; 
+  right: -30px;
 }
 .spacing-teb {
   letter-spacing: 30px;
