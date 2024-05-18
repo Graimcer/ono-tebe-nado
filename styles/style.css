@@ -281,7 +281,7 @@
   width: 689px;
 }
 .about__text:not(:last-of-type) {
-  margin-bottom: 21px;
+  margin-bottom: 30px;
 }
 .footer {
   display: grid;
