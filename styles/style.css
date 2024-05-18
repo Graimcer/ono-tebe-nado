@@ -247,7 +247,8 @@
   grid-template-columns: min-content 1fr;
   column-gap: 28px;
   padding: 156px 7px 90px 1px;
-  position: relative; left: -76px;
+  position: relative;
+  left: -76px;
 }
 .about__logo {
   display: flex;
@@ -256,7 +257,8 @@
   margin: 0 94px;
   border-radius: 50%;
   background: #000;
-  position: relative; right: -50px;
+  position: relative;
+  right: -50px;
 }
 .about__logo-image {
   width: 148px;
