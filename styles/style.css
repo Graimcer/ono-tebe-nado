@@ -72,7 +72,7 @@
 .phone,
 .email,
 .address {
-  width: 240px;
+  width: 236px;
   margin: 0;
   padding: 0;
 }
@@ -308,7 +308,7 @@
 }
 
 .about__text:not(:last-of-type) {
-  margin-bottom: 30px;
+  margin-bottom: 24px;
 }
 
 .footer {
