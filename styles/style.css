@@ -307,7 +307,7 @@
 }
 
 .about__text:not(:last-of-type) {
-  margin-bottom: 24px;
+  margin-bottom: 18px;
 }
 
 .footer {
