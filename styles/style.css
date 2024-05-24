@@ -52,6 +52,7 @@
   height: 105px;
   margin: 0 auto;
   font-size: 0;
+  position: absolute;
 }
 
 .header__address {
@@ -201,11 +202,11 @@
   width: 100%;
   margin-bottom: 30px;
   list-style: none;
-  flex-wrap: nowrap;
+  flex-wrap: wrap;
 }
 
 .lots__card-list-item {
-  flex: 1 1 430px;
+  flex: 1 1 334px;
   min-height: 450px;
 }
 
@@ -349,9 +350,9 @@
 }
 
 .address {
-  max-width: 230px;
   font-weight: 400;
   font-size: 18px;
   font-style: normal;
   line-height: 24.3px;
+  max-width: 230px;
 }
